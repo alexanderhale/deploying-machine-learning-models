@@ -1,3 +1,6 @@
+# virtual environment files
+ml-depl/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
